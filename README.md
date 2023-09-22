@@ -21,6 +21,9 @@
 - https://bard.google.com/
 
 ## AI Agent
+### Open Interpreter
+- https://github.com/KillianLucas/open-interpreter
+
 ### AutoGPT
 - https://github.com/Significant-Gravitas/Auto-GPT
 
