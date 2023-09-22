@@ -1,0 +1,64 @@
+1. 編寫程式碼片段
+````
+請用Python 撰寫一個可以下載youtube 影片的程式碼
+````
+
+2. 編寫程式碼片段
+````
+請用Python 的 yt-dlp 撰寫一個可以下載youtube 影片的程式碼
+````
+
+3. 生成樣板程式碼
+````
+我想要運用fastAPI 建立一個 API 能夠讀取圖片並且透過模型回傳預測結果，請幫我制定好程式樣板
+
+````
+
+4. 快速格式化資料
+````
+請將以下form payload 格式化成字典：
+
+SearchType: S
+Lang: TW
+StartStation: NanGang
+EndStation: ZuoYing
+OutWardSearchDate: 2023/08/23
+OutWardSearchTime: 10:00
+ReturnSearchDate: 2023/08/23
+ReturnSearchTime: 10:00
+DiscountType: 
+
+````
+
+5. 除錯
+````
+我的程式(用三個雙括號包覆)出現以下錯誤 TypeError: unsupported operand type(s) for +: 'int' and 'str'，請幫我除錯：
+
+a = 123
+b = 'this is a string'
+
+print(a + b)
+
+````
+
+6. 編寫文件
+````
+我想要運用fastAPI 建立一個 API 能夠讀取圖片並且透過模型回傳預測結果，請幫我制定好程式樣板
+
+````
+
+7. 生成單元測試
+````
+請根據提供之程式碼建立單元測試
+
+````
+
+8. 程式碼翻譯
+````
+請將以下程式碼翻譯成RUST 語言:
+
+import requets
+res  = requests.get('https://en.wikipedia.org/wiki/Hewlett-Packard')
+print(res.text)
+
+````
