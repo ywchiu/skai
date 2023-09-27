@@ -3,6 +3,10 @@
 ## Demo20230927
 - https://colab.research.google.com/drive/1furW4zbcc9pKBibd2YI4UmyQ4E_1Vi0a?usp=sharing
 
+## Colab
+- https://colab.research.google.com/
+
+
 ## 基本提示詞
 - https://github.com/ywchiu/hpai/blob/main/PROMPT.md
 
